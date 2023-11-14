@@ -1,6 +1,8 @@
-# Nom du Projet
+# ChatGPT Clone
 
-Description brève du projet.
+Clone de ChatGPT utilisant l'API.
+
+API_KEY = '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'
 
 ## Prérequis
 
@@ -20,7 +22,7 @@ cd votre-projet
 
 Installez les dépendances nécessaires en utilisant la commande :
 
-bash
+
 
     npm install
 
@@ -28,7 +30,7 @@ Utilisation
 
 Une fois les dépendances installées, vous pouvez lancer le projet en utilisant la commande :
 
-bash
+
 
 npm start
 
