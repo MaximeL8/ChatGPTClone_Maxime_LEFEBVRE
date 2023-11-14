@@ -1,0 +1,204 @@
+[
+  {
+    "firstname": "Maxime",
+    "name": "Lefebvre",
+    "request": "Combien de planete"
+  },
+  {
+    "firstname": "TestFirstName",
+    "name": "TestName",
+    "request": "TestRequest"
+  },
+  {
+    "firstname": "Bouboule",
+    "name": "Lefebvre",
+    "request": "combien font 8+8"
+  },
+  {
+    "firstname": "Maxime",
+    "name": "Lefebvre",
+    "request": "combien de planète dans le système solaire ?",
+    "answer": "\n\nIl y a huit planètes dans le système solaire."
+  },
+  {
+    "firstname": "Dupont",
+    "name": "Charles",
+    "request": "combien de litres d'eau y a t-il sur terre?",
+    "answer": "\n\nIl n'y a pas de réponse exacte à cette question car l'eau est constamment en mouvement et elle est également recyclée. On estimait en 2013 qu'il y avait 1,4 billion de km3 d'eau sur Terre, mais cela inclut l'eau salée des océans. La quantité d'eau douce sur Terre est estim"
+  },
+  {
+    "firstname": "Bouboule",
+    "name": "Lefebvre",
+    "request": "combien font 8+8",
+    "answer": "\n\n8+8=16"
+  },
+  {
+    "firstname": "Testpcenbas",
+    "name": "enbas",
+    "request": "Le héros principal de naruto",
+    "answer": "\n\nSasuke"
+  },
+  {
+    "firstname": "qsdqs",
+    "name": "qsdqs",
+    "request": "Le héros principal de naruto"
+  },
+  {
+    "firstname": "qdsqd",
+    "name": "qsdqsd",
+    "request": "Le héros principal de naruto"
+  },
+  {
+    "firstname": "qdsqd",
+    "name": "qsdqsd",
+    "request": "Le héros principal de naruto"
+  },
+  {
+    "firstname": "qdsqd",
+    "name": "qsdqsd",
+    "request": "Le héros principal de naruto",
+    "answer": "Le héros principal de Naruto est Naruto Uzumaki. Il est un jeune ninja de Konoha qui aspire à devenir Hokage, le chef du village. Naruto est connu pour sa personnalité turbulente, sa volonté inébranlable et son énorme réservoir de chakra. Malgré son humilité et son manque de compétences au début de la série, Naruto devient rapidement un ninja puissant grâce à son entraînement acharné et à son désir de protéger ceux qui lui sont chers."
+  },
+  {
+    "firstname": "Coline",
+    "name": "Blabli",
+    "request": "pourquoi les fraises sont rouges ?",
+    "answer": "Les fraises sont rouges en raison de la présence de pigments appelés anthocyanes. Ces anthocyanes sont des composés chimiques qui absorbent la lumière dans le spectre visible et reflètent la couleur rouge. Cela donne aux fraises leur teinte caractéristique. Les anthocyanes peuvent également être présentes dans d'autres nuances de couleur comme le violet, le bleu et le rouge foncé."
+  },
+  {
+    "firstname": "sdqd",
+    "name": "qsdqds",
+    "request": "Le nombre d'habitants au brésil",
+    "answer": "Le nombre d'habitants au Brésil est d'environ 211 millions en 2021."
+  },
+  {
+    "firstname": "yaya",
+    "name": "yoyo",
+    "request": "who am i",
+    "answer": "I apologize, but I am an AI language model and I do not have personal information about individuals. Can you please provide more context or details about yourself?"
+  },
+  {
+    "firstname": "yaya",
+    "name": "yoyo",
+    "request": "who am i",
+    "answer": "I'm sorry, but I cannot answer that question as I do not have any information about you."
+  },
+  {
+    "firstname": "yaya",
+    "name": "yoyo",
+    "request": "are you my friend",
+    "answer": "I am an AI created by OpenAI, so technically I am not capable of becoming anyone's friend. However, I am here to assist and engage in conversation with you."
+  },
+  {
+    "firstname": "yaya",
+    "name": "yoyo",
+    "request": "are you my friend",
+    "answer": "I'm an AI language model, so I can't be a personal friend. However, I'm here to assist and have conversations with you. How can I help you today?"
+  },
+  {
+    "firstname": "yaya",
+    "name": "yoyo",
+    "request": "i am sad",
+    "answer": "I'm sorry to hear that you're feeling sad. Is there anything specific that's been bothering you?"
+  },
+  {
+    "firstname": "sdqd",
+    "name": "qsdqds",
+    "request": "Le nombre d'habitants au brésil",
+    "answer": "Selon les estimations les plus récentes, la population du Brésil est d'environ 213,9 millions d'habitants en 2021."
+  },
+  {
+    "firstname": "yaya",
+    "name": "yoyo",
+    "request": "do you think that death is a solution",
+    "answer": "As an AI language model, I don't have personal opinions or beliefs. However, I can provide some information on the topic. \n\nDeath is a natural and inevitable part of life. People may consider death as a solution to their problems or suffering due to various reasons such as experiencing profound pain, mental illness, or feeling overwhelmed by life's challenges. However, it's important to note that many individuals and organizations exist to support people in difficult times, such as mental health professionals, helplines, and support groups.\n\nIf you or someone you know is struggling or having suicidal thoughts, it's crucial to seek help from a mental health professional or reach out to a helpline immediately. They can provide support, guidance, and help explore alternative solutions to the problems faced."
+  },
+  {
+    "firstname": "Maxime",
+    "name": "Lefebvre",
+    "request": "Tell me something simple",
+    "answer": "The sun is yellow."
+  },
+  {
+    "firstname": "Maxime",
+    "name": "Lefebvre",
+    "request": "tell me hello",
+    "answer": "Hello! How can I assist you today?"
+  },
+  {
+    "firstname": "Maxime",
+    "name": "Lefebvre",
+    "request": "tell me one word",
+    "answer": "Serendipity"
+  },
+  {
+    "firstname": "babish",
+    "name": "Jeri Mae",
+    "request": "What is Swan Neck ?",
+    "answer": "Swan neck is a term used to describe a deformity of the finger joints, specifically the distal interphalangeal (DIP) joint. In this condition, the joint of the finger bends upward, resembling the shape of a swan's neck. \n\nSwan neck deformity is often associated with rheumatoid arthritis, but can also be caused by other conditions such as trauma, ligament injury, or congenital abnormalities. The abnormal bending of the finger joint can lead to difficulty in straightening the finger, causing problems with gripping and hand function. Treatment options for swan neck deformity may include splinting, physical therapy, medication, or in severe cases, surgical intervention."
+  },
+  {
+    "firstname": "babish",
+    "name": "Jeri Mae",
+    "request": "What is Swan Neck ?",
+    "answer": "Swan neck is a condition or deformity that affects the fingers or toes, characterized by abnormal bending or hyperextension of the joint closest to the fingertip or toe. In this condition, the joint bends backward, resembling the curved neck of a swan. Swan neck deformity can be a result of various underlying conditions, such as rheumatoid arthritis, injury, or genetic predisposition. It can also occur due to imbalances in the muscles, ligaments, or tendons around the joint, resulting in the abnormal positioning. This deformity can cause functional issues and may require medical intervention or surgical correction, depending on the severity and associated symptoms."
+  },
+  {
+    "firstname": "test",
+    "name": "test",
+    "request": "hello",
+    "answer": "Hi there! How can I assist you today?"
+  },
+  {
+    "firstname": "test",
+    "name": "test",
+    "request": "hello",
+    "answer": "Hi there! How can I assist you today?"
+  },
+  {
+    "firstname": "test",
+    "name": "test",
+    "request": "hello",
+    "answer": "Hello! How can I assist you today?"
+  },
+  {
+    "firstname": "test",
+    "name": "test",
+    "request": "hello",
+    "answer": "Hi there! How can I assist you today?"
+  },
+  {
+    "firstname": "florentin",
+    "name": "ADET",
+    "request": "Qui est mort en 2020 ? ",
+    "answer": "Voici quelques personnalités notables qui sont décédées en 2020 :\n\n- Kobe Bryant, joueur de basket-ball américain\n- Kirk Douglas, acteur américain\n- Terry Jones, membre des Monty Python\n- Diego Maradona, footballeur argentin\n- Sean Connery, acteur écossais\n- Eddie Van Halen, guitariste américain\n- Ruth Bader Ginsburg, juge à la Cour suprême des États-Unis\n- Alex Trebek, animateur du jeu télévisé \"Jeopardy!\"\n- Chadwick Boseman, acteur américain\n- John Lewis, homme politique et militant américain des droits civiques\n- Christophe, chanteur français\n- Christo, artiste bulgare\n- Ennio Morricone, compositeur italien de musique de film\n- Michel Piccoli, acteur français\n- George Floyd, homme afro-américain dont la mort a déclenché des manifestations contre le racisme et les violences policières."
+  },
+  {
+    "firstname": "Maxime",
+    "name": "Lefebvre",
+    "email": "lefebvremaxime825@gmail.com",
+    "request": "Combien de patate dans un champs ?",
+    "answer": "Il est impossible de donner un nombre précis sans informations supplémentaires. Le nombre de pommes de terre dans un champ dépend de la taille du champ, de la variété de pommes de terre cultivées, de l'espacement des plants, de la densité de la plantation, des conditions de croissance, etc."
+  },
+  {
+    "firstname": "maxime",
+    "name": "ce",
+    "email": "bg",
+    "request": "est-ce que léo est raciste",
+    "answer": "En tant qu'IA, je ne peux pas répondre à cette question car je n'ai pas accès aux informations personnelles de Léo ni à ses pensées et ses croyances. Seules les personnes proches de Léo peuvent répondre à cette question de manière précise."
+  },
+  {
+    "firstname": "Maxime",
+    "name": "Lefebvre",
+    "email": "qdsdq@qd.com",
+    "request": "8+8",
+    "answer": "The sum of 8 and 8 is 16."
+  },
+  {
+    "firstname": "Maxime",
+    "name": "Lefebvre",
+    "email": "qsdqs@dsq.com",
+    "request": "8+6",
+    "answer": "8 + 6 = 14"
+  }
+]
